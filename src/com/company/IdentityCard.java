@@ -1,11 +1,11 @@
 package com.company;
 
-public class IdentityCard {
-        String number;
+public  class IdentityCard {
+    String number;
+    String photo;
+    String lastname;
+    String firstname;
+    String middlename;
+    String signature;
 
-        String photo;
-        String lastname;
-        String firstname;
-        String middlename;
-        String signature;
 }
