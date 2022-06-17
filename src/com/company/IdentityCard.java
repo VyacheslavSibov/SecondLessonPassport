@@ -7,5 +7,5 @@ public  class IdentityCard {
     String firstname;
     String middlename;
     String signature;
-
 }
+
